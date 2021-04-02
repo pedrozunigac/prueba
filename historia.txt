@@ -1,5 +1,1 @@
-Esta es la historia de PEdro Zuñiga
-
-PEdro Zuñiga tiene 42 años y nació en Chile
-
-Hoy hablaremos de su historia
+Realizando cambios al archivo de texto
